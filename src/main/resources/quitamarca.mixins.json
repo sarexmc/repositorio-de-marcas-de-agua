@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.sarex.quitamarca.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "quitamarca.refmap.json",
+  "client": ["GuiGraphicsMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
